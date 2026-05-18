@@ -1,0 +1,10 @@
+<svg preserveAspectRatio="none" width="100%" height="100%" overflow="visible" style="display: block;" viewBox="0 0 20.4 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Shape">
+<path d="M10.2 8L6.8 6V2L10.2 0L13.6 2V6L10.2 8Z" fill="var(--fill-0, #335CFF)"/>
+<path d="M17 12L13.6 10V6L17 4L20.4 6V10L17 12Z" fill="var(--fill-0, #335CFF)"/>
+<path d="M13.6 18V14L17 12L20.4 14V18L17 20L13.6 18Z" fill="var(--fill-0, #335CFF)"/>
+<path d="M6.8 18L10.2 16L13.6 18V22L10.2 24L6.8 22V18Z" fill="var(--fill-0, #335CFF)"/>
+<path d="M3.4 12L6.8 14V18L3.4 20L0 18V14L3.4 12Z" fill="var(--fill-0, #335CFF)"/>
+<path d="M3.4 12L6.8 10V6L3.4 4L0 6V10L3.4 12Z" fill="var(--fill-0, #335CFF)"/>
+</g>
+</svg>
